@@ -1,0 +1,1956 @@
+{
+    "CVE-2022-3821": {
+        "ubuntu@@+source@@systemd": {
+            "applied/256.5-2ubuntu3.1": "patch",
+            "applied/255.4-1ubuntu8.4": "patch",
+            "applied/249.11-0ubuntu3.12": "patch",
+            "applied/245.4-4ubuntu3.24": "patch",
+            "applied/237-3ubuntu10.57": "patch",
+            "applied/229-4ubuntu21.31": "unpatch",
+            "applied/204-5ubuntu20.31": "unpatch",
+            "applied/256.5-2ubuntu3": "patch"
+        }
+    },
+    "CVE-2023-29420": {
+        "ubuntu@@+source@@bzip3": {
+            "applied/1.4.0-1": "patch"
+        }
+    },
+    "CVE-2022-3626": {
+        "ubuntu@@+source@@tiff": {
+            "applied/4.5.1+git230720-4ubuntu4": "patch",
+            "applied/4.5.1+git230720-4ubuntu2.2": "patch",
+            "applied/4.3.0-6ubuntu0.10": "unpatch",
+            "applied/4.1.0+git191117-2ubuntu0.20.04.14": "unpatch",
+            "applied/4.0.9-5ubuntu0.10": "unpatch",
+            "applied/4.0.6-1ubuntu0.8": "unpatch",
+            "applied/4.0.3-7ubuntu0.11": "unpatch"
+        }
+    },
+    "CVE-2023-23143": {
+        "ubuntu@@+source@@gpac": {
+            "applied/2.2.1+dfsg1-3.1build2": "patch",
+            "applied/2.0.0+dfsg1-2": "unpatch",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-5": "no_vul",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-3ubuntu0.1": "no_vul",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2023-41053": {
+        "ubuntu@@+source@@redis": {
+            "applied/5%7.0.15-1build2": "patch",
+            "applied/5%6.0.16-1ubuntu1": "no_vul",
+            "applied/5%5.0.7-2ubuntu0.1": "no_vul",
+            "applied/5%4.0.9-1ubuntu0.2": "no_vul",
+            "applied/2%3.0.6-1ubuntu0.4": "no_vul",
+            "applied/2%2.8.4-2ubuntu0.2": "no_vul"
+        }
+    },
+    "CVE-2023-22741": {
+        "ubuntu@@+source@@sofia-sip": {
+            "applied/1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.2": "patch",
+            "applied/1.12.11+20110422.1-2.1+deb10u3ubuntu0.20.04.2": "patch",
+            "applied/1.12.11+20110422.1-2.1+deb10u3build0.18.04.1": "patch",
+            "applied/1.12.11+20110422.1-2ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2021-26927": {
+        "ubuntu@@+source@@jasper": {
+            "applied/1.900.1-debian1-2.4ubuntu1.3": "unpatch",
+            "applied/1.900.1-14ubuntu3.5": "unpatch"
+        }
+    },
+    "CVE-2023-2731": {
+        "ubuntu@@+source@@tiff": {
+            "applied/4.5.1+git230720-4ubuntu4": "patch",
+            "applied/4.5.1+git230720-4ubuntu2.2": "patch",
+            "applied/4.3.0-6ubuntu0.10": "no_vul",
+            "applied/4.1.0+git191117-2ubuntu0.20.04.14": "no_vul",
+            "applied/4.0.9-5ubuntu0.10": "no_vul",
+            "applied/4.0.6-1ubuntu0.8": "no_vul",
+            "applied/4.0.3-7ubuntu0.11": "no_vul"
+        }
+    },
+    "CVE-2022-3970": {
+        "ubuntu@@+source@@tiff": {
+            "applied/4.5.1+git230720-4ubuntu4": "patch",
+            "applied/4.5.1+git230720-4ubuntu2.2": "patch",
+            "applied/4.3.0-6ubuntu0.10": "patch",
+            "applied/4.1.0+git191117-2ubuntu0.20.04.14": "patch",
+            "applied/4.0.9-5ubuntu0.10": "patch",
+            "applied/4.0.6-1ubuntu0.8": "unpatch",
+            "applied/4.0.3-7ubuntu0.11": "unpatch"
+        }
+    },
+    "CVE-2023-41910": {
+        "ubuntu@@+source@@lldpd": {
+            "applied/1.0.18-1build3": "patch",
+            "applied/1.0.13-1": "unpatch",
+            "applied/1.0.4-1build2": "unpatch",
+            "applied/0.9.9-1ubuntu0.1": "unpatch",
+            "applied/0.7.19-1": "unpatch",
+            "applied/0.7.7-1": "unpatch"
+        }
+    },
+    "CVE-2022-4141": {
+        "ubuntu@@+source@@vim": {
+            "applied/2:9.1.0777-1ubuntu1": "patch",
+            "applied/2:9.1.0496-1ubuntu6.1": "patch",
+            "applied/2:9.1.0016-1ubuntu7.4": "patch",
+            "applied/2:8.2.3995-1ubuntu2.20": "unpatch",
+            "applied/2:8.1.2269-1ubuntu5.26": "unpatch",
+            "applied/2:8.0.1453-1ubuntu1.13": "unpatch",
+            "applied/2:7.4.1689-3ubuntu1.5": "unpatch",
+            "applied/2:7.4.052-1ubuntu3.1": "unpatch"
+        }
+    },
+    "CVE-2023-27114": {
+        "ubuntu@@+source@@radare2": {
+            "applied/5.9.4+dfsg-1": "patch",
+            "applied/5.5.0+dfsg-1.1ubuntu3": "no_vul",
+            "applied/4.2.1+dfsg-2": "no_vul",
+            "applied/2.3.0+dfsg-2": "no_vul",
+            "applied/0.9.6-3.1ubuntu1": "no_vul"
+        }
+    },
+    "CVE-2024-22211": {
+        "ubuntu@@+source@@freerdp3": {
+            "applied/3.6.3+dfsg1-2": "patch",
+            "applied/3.5.1+dfsg1-0ubuntu1": "patch"
+        },
+        "ubuntu@@+source@@freerdp2": {
+            "applied/2.11.7+dfsg1-4": "patch",
+            "applied/2.11.5+dfsg1-1build2": "patch",
+            "applied/2.6.1+dfsg1-3ubuntu2.7": "patch",
+            "applied/2.6.1+dfsg1-0ubuntu0.20.04.2": "patch",
+            "applied/2.2.0+dfsg1-0ubuntu0.18.04.4": "no_vul"
+        }
+    },
+    "CVE-2023-44398": {
+        "ubuntu@@+source@@exiv2": {
+            "applied/0.27.6-1build1": "no_vul",
+            "applied/0.27.5-3ubuntu1": "no_vul",
+            "applied/0.27.2-8ubuntu2.7": "no_vul",
+            "applied/0.25-3.1ubuntu0.18.04.11": "no_vul",
+            "applied/0.25-2.1ubuntu16.04.6": "no_vul",
+            "applied/0.23-1ubuntu2.2": "no_vul"
+        }
+    },
+    "CVE-2023-7152": {
+        "ubuntu@@+source@@micropython": {
+            "applied/1.22.1+ds-1build2": "patch",
+            "applied/1.17+ds-1.1ubuntu2": "no_vul",
+            "applied/1.12-1": "no_vul"
+        }
+    },
+    "CVE-2023-43887": {
+        "ubuntu@@+source@@libde265": {
+            "applied/1.0.15-1build4": "patch",
+            "applied/1.0.15-1build3": "patch",
+            "applied/1.0.8-1ubuntu0.3": "patch",
+            "applied/1.0.4-1ubuntu0.4": "patch",
+            "applied/1.0.2-2build1": "no_vul",
+            "applied/1.0.2-2": "no_vul"
+        }
+    },
+    "CVE-2023-4255": {
+        "ubuntu@@+source@@w3m": {
+            "applied/0.5.3+git20230121-2ubuntu5": "patch",
+            "applied/0.5.3+git20210102-6ubuntu0.2": "patch",
+            "applied/0.5.3-37ubuntu0.2": "patch",
+            "applied/0.5.3-36ubuntu0.1": "unpatch",
+            "applied/0.5.3-26ubuntu0.2": "no_vul",
+            "applied/0.5.3-15ubuntu0.2": "no_vul"
+        }
+    },
+    "CVE-2023-49208": {
+        "ubuntu@@+source@@glewlwyd": {
+            "applied/2.7.6+ds-2build2": "patch",
+            "applied/2.6.1-1build1": "unpatch",
+            "applied/1.4.9-3": "no_vul",
+            "applied/1.3.1-1": "no_vul"
+        }
+    },
+    "CVE-2023-40184": {
+        "ubuntu@@+source@@xrdp": {
+            "applied/0.10.1-2": "patch",
+            "applied/0.9.24-4": "patch",
+            "applied/0.9.17-2ubuntu2": "unpatch",
+            "applied/0.9.12-1ubuntu0.1": "unpatch",
+            "applied/0.9.5-2": "unpatch",
+            "applied/0.6.1-2ubuntu0.3": "unpatch",
+            "applied/0.6.0-1ubuntu0.1": "unpatch"
+        }
+    },
+    "CVE-2023-1350": {
+        "ubuntu@@+source@@liferea": {
+            "applied/1.12.2-1": "unpatch",
+            "applied/1.10.17-1ubuntu2": "unpatch",
+            "applied/1.10.3-1ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2023-31470": {
+        "ubuntu@@+source@@smartdns": {
+            "applied/46+dfsg-1": "patch",
+            "applied/45+dfsg-1build2": "patch",
+            "applied/35+dfsg-1": "unpatch"
+        }
+    },
+    "CVE-2022-38072": {
+        "ubuntu@@+source@@admesh": {
+            "applied/0.98.5-1build1": "patch",
+            "applied/0.98.4-1": "unpatch",
+            "applied/0.98.3-2": "unpatch",
+            "applied/0.98.2-2": "unpatch",
+            "applied/0.96-1": "unpatch"
+        }
+    },
+    "CVE-2023-50268": {
+        "ubuntu@@+source@@jq": {
+            "applied/1.7.1-3build1": "patch",
+            "applied/1.6-2.1ubuntu3": "no_vul",
+            "applied/1.6-1ubuntu0.20.04.1": "no_vul",
+            "applied/1.5+dfsg-2": "no_vul",
+            "applied/1.5+dfsg-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2023-0341": {
+        "ubuntu@@+source@@editorconfig-core": {
+            "applied/0.12.7-0.1": "patch",
+            "applied/0.12.5-2": "unpatch",
+            "applied/0.12.1-1.1": "unpatch",
+            "applied/0.12.0-2": "unpatch",
+            "applied/0.11.5-1": "unpatch"
+        }
+    },
+    "CVE-2023-27734": {
+        "ubuntu@@+source@@edb-debugger": {
+            "applied/1.3.0-2.1build2": "unpatch",
+            "applied/1.3.0-1": "unpatch",
+            "applied/1.0.0-1build3": "no_vul",
+            "applied/0.9.21-3": "no_vul"
+        }
+    },
+    "CVE-2023-23457": {
+        "ubuntu@@+source@@upx-ucl": {
+            "applied/4.2.2-3": "patch",
+            "applied/3.96-3": "unpatch",
+            "applied/3.95-2build1": "unpatch",
+            "applied/3.94-4": "unpatch",
+            "applied/3.91-1": "unpatch"
+        }
+    },
+    "CVE-2023-39978": {
+        "ubuntu@@+source@@imagemagick": {
+            "applied/8:6.9.13.12+dfsg1-1build1": "patch",
+            "applied/8:6.9.13.12+dfsg1-1": "patch",
+            "applied/8:6.9.12.98+dfsg1-5.2build2": "patch",
+            "applied/8:6.9.11.60+dfsg-1.3ubuntu0.22.04.5": "patch",
+            "applied/8:6.9.10.23+dfsg-2.1ubuntu11.10": "patch",
+            "applied/8:6.9.7.4+dfsg-16ubuntu6.15": "patch",
+            "applied/8:6.8.9.9-7ubuntu5.16": "patch",
+            "applied/8:6.7.7.10-6ubuntu3.13": "patch"
+        }
+    },
+    "CVE-2022-4121": {
+        "ubuntu@@+source@@libetpan": {
+            "applied/1.9.4-3.2build2": "patch",
+            "applied/1.9.4-3": "unpatch",
+            "applied/1.9.4-2": "unpatch",
+            "applied/1.8.0-1": "unpatch",
+            "applied/1.6-1ubuntu0.1": "unpatch",
+            "applied/1.0-5ubuntu3": "unpatch"
+        }
+    },
+    "CVE-2023-34872": {
+        "ubuntu@@+source@@poppler": {
+            "applied/24.08.0-1": "patch",
+            "applied/24.02.0-1ubuntu9.1": "patch",
+            "applied/22.02.0-2ubuntu0.5": "patch",
+            "applied/0.86.1-0ubuntu1.4": "unpatch",
+            "applied/0.62.0-2ubuntu2.14": "unpatch",
+            "applied/0.41.0-0ubuntu1.16": "unpatch",
+            "applied/0.24.5-2ubuntu4.17": "unpatch"
+        }
+    },
+    "CVE-2023-0798": {
+        "ubuntu@@+source@@tiff": {
+            "applied/4.5.1+git230720-4ubuntu4": "patch",
+            "applied/4.5.1+git230720-4ubuntu2.2": "patch",
+            "applied/4.3.0-6ubuntu0.10": "patch",
+            "applied/4.1.0+git191117-2ubuntu0.20.04.14": "patch",
+            "applied/4.0.9-5ubuntu0.10": "patch",
+            "applied/4.0.6-1ubuntu0.8": "unpatch",
+            "applied/4.0.3-7ubuntu0.11": "unpatch"
+        }
+    },
+    "CVE-2023-2804": {
+        "ubuntu@@+source@@libjpeg-turbo": {
+            "applied/2.1.5-2ubuntu2": "no_vul",
+            "applied/2.1.2-0ubuntu1": "no_vul",
+            "applied/2.0.3-0ubuntu1.20.04.3": "no_vul",
+            "applied/1.5.2-0ubuntu5.18.04.6": "no_vul",
+            "applied/1.4.2-0ubuntu3.4": "no_vul",
+            "applied/1.3.0-0ubuntu2.1": "no_vul"
+        }
+    },
+    "CVE-2023-28425": {
+        "ubuntu@@+source@@redis": {
+            "applied/5%7.0.15-1build2": "patch",
+            "applied/5%6.0.16-1ubuntu1": "no_vul",
+            "applied/5%5.0.7-2ubuntu0.1": "no_vul",
+            "applied/5%4.0.9-1ubuntu0.2": "no_vul",
+            "applied/2%3.0.6-1ubuntu0.4": "no_vul",
+            "applied/2%2.8.4-2ubuntu0.2": "no_vul"
+        }
+    },
+    "CVE-2022-2126": {
+        "ubuntu@@+source@@vim": {
+            "applied/2%9.1.0777-1ubuntu1": "patch",
+            "applied/2%9.1.0496-1ubuntu6.1": "patch",
+            "applied/2%9.1.0016-1ubuntu7.4": "patch",
+            "applied/2%8.2.3995-1ubuntu2.20": "patch",
+            "applied/2%8.1.2269-1ubuntu5.26": "patch",
+            "applied/2%8.0.1453-1ubuntu1.13": "patch",
+            "applied/2%7.4.1689-3ubuntu1.5": "unpatch",
+            "applied/2%7.4.052-1ubuntu3.1": "no_vul"
+        }
+    },
+    "CVE-2023-23946": {
+        "ubuntu@@+source@@git": {
+            "applied/1%2.45.2-1ubuntu1": "patch",
+            "applied/1%2.43.0-1ubuntu7.1": "patch",
+            "applied/1%2.34.1-1ubuntu1.11": "patch",
+            "applied/1%2.25.1-1ubuntu3.13": "patch",
+            "applied/1%2.17.1-1ubuntu0.18": "patch",
+            "applied/1%2.7.4-0ubuntu1.10": "no_vul",
+            "applied/1%1.9.1-1ubuntu0.10": "no_vul"
+        }
+    },
+    "CVE-2022-32546": {
+        "ubuntu@@+source@@imagemagick": {
+            "applied/8%6.9.13.12+dfsg1-1build1": "patch",
+            "applied/8%6.9.13.12+dfsg1-1": "patch",
+            "applied/8%6.9.12.98+dfsg1-5.2build2": "patch",
+            "applied/8%6.9.11.60+dfsg-1.3ubuntu0.22.04.5": "unpatch",
+            "applied/8%6.9.10.23+dfsg-2.1ubuntu11.10": "patch",
+            "applied/8%6.9.7.4+dfsg-16ubuntu6.15": "patch",
+            "applied/8%6.8.9.9-7ubuntu5.16": "unpatch",
+            "applied/8%6.7.7.10-6ubuntu3.13": "unpatch"
+        }
+    },
+    "CVE-2022-35977": {
+        "ubuntu@@+source@@redis": {
+            "applied/5%7.0.15-1build2": "patch",
+            "applied/5%6.0.16-1ubuntu1": "unpatch",
+            "applied/5%5.0.7-2ubuntu0.1": "no_vul",
+            "applied/5%4.0.9-1ubuntu0.2": "no_vul",
+            "applied/2%3.0.6-1ubuntu0.4": "no_vul",
+            "applied/2%2.8.4-2ubuntu0.2": "no_vul"
+        }
+    },
+    "CVE-2023-3138": {
+        "ubuntu@@+source@@libx11": {
+            "applied/2%1.8.7-1build1": "patch",
+            "applied/2%1.7.5-1ubuntu0.3": "unpatch",
+            "applied/2%1.6.9-2ubuntu1.6": "unpatch",
+            "applied/2%1.6.4-3ubuntu0.4": "unpatch",
+            "applied/2%1.6.3-1ubuntu2.2": "unpatch",
+            "applied/2%1.6.2-1ubuntu2.1": "unpatch"
+        }
+    },
+    "CVE-2021-20230": {
+        "ubuntu@@+source@@stunnel4": {
+            "applied/3%5.72-3": "patch",
+            "applied/3%5.72-1build2": "patch",
+            "applied/3%5.63-1build1": "patch",
+            "applied/3%5.56-1ubuntu0.2": "unpatch",
+            "applied/3%5.44-1ubuntu3": "unpatch",
+            "applied/3%5.30-1ubuntu0.1": "unpatch",
+            "applied/3%4.53-1.1ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2020-11722": {
+        "ubuntu@@+source@@crawl": {
+            "applied/2%0.28.0-1.1": "patch",
+            "applied/2%0.28.0-1": "patch",
+            "applied/2%0.24.0-1build1": "no_vul",
+            "applied/2%0.21.1-1": "unpatch",
+            "applied/2%0.17.1-1": "unpatch",
+            "applied/2%0.13.1-1": "unpatch"
+        }
+    },
+    "CVE-2020-13848": {
+        "ubuntu@@+source@@pupnp": {
+            "applied/1%1.14.19-2ubuntu1": "patch",
+            "applied/1%1.14.18-1.1ubuntu2": "patch"
+        }
+    },
+    "CVE-2020-24654": {
+        "ubuntu@@+source@@ark": {
+            "applied/4%24.08.1-0ubuntu1": "patch",
+            "applied/4%23.08.5-0ubuntu5": "patch",
+            "applied/4%21.12.3-1ubuntu1": "patch",
+            "applied/4%19.12.3-0ubuntu1.2": "patch",
+            "applied/4%17.12.3-0ubuntu1.2": "patch",
+            "applied/4%15.12.3-0ubuntu1.2": "no_vul",
+            "applied/4%4.13.3-0ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2022-46285": {
+        "ubuntu@@+source@@libxpm": {
+            "applied/1%3.5.17-1build2": "patch",
+            "applied/1%3.5.12-1ubuntu0.22.04.2": "unpatch",
+            "applied/1%3.5.12-1ubuntu0.20.04.2": "unpatch",
+            "applied/1%3.5.12-1ubuntu0.18.04.2": "unpatch",
+            "applied/1%3.5.11-1ubuntu0.16.04.1": "unpatch",
+            "applied/1%3.5.10-1ubuntu0.1": "unpatch"
+        }
+    },
+    "CVE-2022-27239": {
+        "ubuntu@@+source@@cifs-utils": {
+            "applied/2%7.0-2.1": "patch",
+            "applied/2%7.0-2build1": "patch",
+            "applied/2%6.14-1ubuntu0.1": "patch",
+            "applied/2%6.9-1ubuntu0.2": "patch",
+            "applied/2%6.8-1ubuntu1.2": "patch",
+            "applied/2%6.4-1ubuntu1.1": "unpatch",
+            "applied/2%6.0-1ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-40299": {
+        "ubuntu@@+source@@singular": {
+            "applied/1%4.4.0-p3+ds-1": "patch",
+            "applied/1%4.3.2-p10+ds-1.1build1": "patch",
+            "applied/1%4.2.1-p3+ds-1": "unpatch",
+            "applied/1%4.1.1-p2+ds-4build2": "unpatch",
+            "applied/1%4.1.0-p3+ds-2build1": "unpatch",
+            "applied/4.0.3+ds-1": "unpatch"
+        }
+    },
+    "CVE-2023-5586": {
+        "ubuntu@@+source@@gpac": {
+            "applied/2.2.1+dfsg1-3.1build2": "unpatch",
+            "applied/2.0.0+dfsg1-2": "no_vul",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-5": "no_vul",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-3ubuntu0.1": "no_vul",
+            "applied/0.5.2-426-gc5ad4e4+dfsg5-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2020-1712": {
+        "ubuntu@@+source@@systemd": {
+            "applied/256.5-2ubuntu3": "patch",
+            "applied/256.5-2ubuntu3.1": "patch",
+            "applied/255.4-1ubuntu8.4": "patch",
+            "applied/249.11-0ubuntu3.12": "patch",
+            "applied/245.4-4ubuntu3.24": "patch",
+            "applied/237-3ubuntu10.57": "patch",
+            "applied/229-4ubuntu21.31": "patch",
+            "applied/204-5ubuntu20.31": "no_vul"
+        }
+    },
+    "CVE-2022-0890": {
+        "ubuntu@@+source@@mruby": {
+            "applied/3.3.0-1": "patch",
+            "applied/3.2.0-2": "patch",
+            "applied/3.0.0-3": "unpatch",
+            "applied/2.0.0-1": "unpatch",
+            "applied/1.4.0-1": "no_vul",
+            "applied/1.2.0+20160315+git4f20d58a-1": "no_vul"
+        }
+    },
+    "CVE-2022-26530": {
+        "ubuntu@@+source@@swaylock": {
+            "applied/1.7.2-1build2": "patch",
+            "applied/1.5-2ubuntu1": "unpatch",
+            "applied/1.5-2": "unpatch"
+        }
+    },
+    "CVE-2020-14398": {
+        "ubuntu@@+source@@libvncserver": {
+            "applied/0.9.14+dfsg-1build2": "patch",
+            "applied/0.9.13+dfsg-3build2": "patch",
+            "applied/0.9.12+dfsg-9ubuntu0.3": "patch",
+            "applied/0.9.11+dfsg-1ubuntu1.4": "patch",
+            "applied/0.9.10+dfsg-3ubuntu0.16.04.6": "patch",
+            "applied/0.9.9+dfsg-1ubuntu1.4": "unpatch"
+        }
+    },
+    "CVE-2022-1899": {
+        "ubuntu@@+source@@radare2": {
+            "applied/5.9.4+dfsg-1": "patch",
+            "applied/5.5.0+dfsg-1.1ubuntu3": "unpatch",
+            "applied/4.2.1+dfsg-2": "unpatch",
+            "applied/2.3.0+dfsg-2": "unpatch",
+            "applied/0.9.6-3.1ubuntu1": "no_vul"
+        }
+    },
+    "CVE-2020-26759": {
+        "ubuntu@@+source@@python-clickhouse-driver": {
+            "applied/0.2.5-2": "patch",
+            "applied/0.2.5-1build3": "patch",
+            "applied/0.2.3-1ubuntu1": "patch"
+        }
+    },
+    "CVE-2023-38403": {
+        "ubuntu@@+source@@iperf": {
+            "applied/2.2.0+dfsg-1": "no_vul",
+            "applied/2.1.9+dfsg-1": "no_vul",
+            "applied/2.1.5+dfsg1-1": "no_vul",
+            "applied/2.0.13+dfsg1-1build1": "no_vul",
+            "applied/2.0.10+dfsg1-1ubuntu0.18.04.2": "no_vul",
+            "applied/2.0.5+dfsg1-2ubuntu0.1": "no_vul",
+            "applied/2.0.5-3": "no_vul"
+        }
+    },
+    "CVE-2022-1623": {
+        "ubuntu@@+source@@tiff": {
+            "applied/4.5.1+git230720-4ubuntu4": "patch",
+            "applied/4.5.1+git230720-4ubuntu2.2": "patch",
+            "applied/4.3.0-6ubuntu0.10": "unpatch",
+            "applied/4.1.0+git191117-2ubuntu0.20.04.14": "unpatch",
+            "applied/4.0.9-5ubuntu0.10": "unpatch",
+            "applied/4.0.6-1ubuntu0.8": "unpatch",
+            "applied/4.0.3-7ubuntu0.11": "unpatch"
+        }
+    },
+    "CVE-2020-20277": {
+        "ubuntu@@+source@@uftp": {
+            "applied/4.10.2-1.1build4": "no_vul",
+            "applied/4.10.2-1.1build2": "no_vul",
+            "applied/4.10.1-1": "no_vul",
+            "applied/4.9.5-1": "no_vul"
+        }
+    },
+    "CVE-2022-29967": {
+        "ubuntu@@+source@@glewlwyd": {
+            "applied/2.7.6+ds-2build2": "patch",
+            "applied/2.6.1-1build1": "unpatch",
+            "applied/1.4.9-3": "no_vul",
+            "applied/1.3.1-1": "no_vul"
+        }
+    },
+    "CVE-2023-44488": {
+        "ubuntu@@+source@@libvpx": {
+            "applied/1.14.1-1ubuntu1": "patch",
+            "applied/1.14.0-1ubuntu2.1": "patch",
+            "applied/1.11.0-2ubuntu2.3": "patch",
+            "applied/1.8.2-1ubuntu0.3": "patch",
+            "applied/1.7.0-3ubuntu0.18.04.1": "unpatch",
+            "applied/1.5.0-2ubuntu1.1": "unpatch",
+            "applied/1.3.0-2": "unpatch"
+        }
+    },
+    "CVE-2023-36321": {
+        "ubuntu@@+source@@dlt-daemon": {
+            "applied/2.18.10-10": "patch",
+            "applied/2.18.6-2": "unpatch",
+            "applied/2.18.4-0.1": "unpatch"
+        }
+    },
+    "CVE-2023-29419": {
+        "ubuntu@@+source@@bzip3": {
+            "applied/1.4.0-1": "patch"
+        }
+    },
+    "CVE-2023-28098": {
+        "ubuntu@@+source@@opensips": {
+            "applied/2.2.2-3build4": "unpatch"
+        }
+    },
+    "CVE-2023-25824": {
+        "ubuntu@@+source@@mod-gnutls": {
+            "applied/0.9.0-1.1ubuntu1": "unpatch",
+            "applied/0.8.2-3ubuntu1": "unpatch",
+            "applied/0.7.3-0ubuntu1": "unpatch",
+            "applied/0.5.10-4": "unpatch"
+        }
+    },
+    "CVE-2022-41409": {
+        "ubuntu@@+source@@pcre2": {
+            "applied/10.42-4ubuntu3": "patch",
+            "applied/10.42-4ubuntu2.1": "patch",
+            "applied/10.39-3ubuntu0.1": "unpatch",
+            "applied/10.34-7ubuntu0.1": "unpatch",
+            "applied/10.31-2": "unpatch",
+            "applied/10.21-1": "unpatch"
+        }
+    },
+    "CVE-2021-27097": {
+        "ubuntu@@+source@@u-boot": {
+            "applied/2013.10-3": "unpatch"
+        }
+    },
+    "CVE-2021-21261": {
+        "ubuntu@@+source@@flatpak": {
+            "applied/1.14.10-1": "patch",
+            "applied/1.14.6-1ubuntu0.1": "patch",
+            "applied/1.12.7-1ubuntu0.1": "patch",
+            "applied/1.6.5-0ubuntu0.5": "patch",
+            "applied/1.0.9-0ubuntu0.4": "patch"
+        }
+    },
+    "CVE-2020-7211": {
+        "ubuntu@@+source@@libslirp": {
+            "applied/4.8.0-1ubuntu1": "patch",
+            "applied/4.7.0-1ubuntu3": "patch",
+            "applied/4.6.1-1ubuntu0.1": "patch",
+            "applied/4.1.0-2ubuntu2.2": "unpatch"
+        }
+    },
+    "CVE-2020-15569": {
+        "ubuntu@@+source@@milkytracker": {
+            "applied/1.04.00.20230830+dfsg-3": "patch",
+            "applied/1.04.00.20230830+dfsg-1build2": "patch",
+            "applied/1.03.00+dfsg-2build1": "patch",
+            "applied/1.02.00+dfsg-2build1": "unpatch",
+            "applied/1.02.00+dfsg-1": "unpatch",
+            "applied/0.90.85+dfsg-2.2+deb8u1build0.16.04.1": "unpatch",
+            "applied/0.90.85+dfsg-2.2": "unpatch"
+        }
+    },
+    "CVE-2023-37464": {
+        "ubuntu@@+source@@cjose": {
+            "applied/0.6.2.3-1": "patch",
+            "applied/0.6.2.2-1build3": "patch",
+            "applied/0.6.1+dfsg1-3ubuntu1.1": "patch",
+            "applied/0.6.1+dfsg1-1ubuntu0.1": "patch",
+            "applied/0.6.0+dfsg1-1": "unpatch"
+        }
+    },
+    "CVE-2020-12723": {
+        "ubuntu@@+source@@perl": {
+            "applied/5.40.0-6": "no_vul",
+            "applied/5.38.2-5": "no_vul",
+            "applied/5.38.2-3.2build2.1": "no_vul",
+            "applied/5.34.0-3ubuntu1.3": "patch",
+            "applied/5.30.0-9ubuntu0.5": "patch",
+            "applied/5.26.1-6ubuntu0.7": "patch",
+            "applied/5.22.1-9ubuntu0.9": "patch",
+            "applied/5.18.2-2ubuntu1.7": "unpatch"
+        }
+    },
+    "CVE-2022-37032": {
+        "ubuntu@@+source@@frr": {
+            "applied/10.0.1-0.1ubuntu2": "patch",
+            "applied/8.4.4-1.1ubuntu6.2": "patch",
+            "applied/8.1-1ubuntu1.11": "patch",
+            "applied/7.2.1-1ubuntu0.2": "patch"
+        }
+    },
+    "CVE-2020-26262": {
+        "ubuntu@@+source@@coturn": {
+            "applied/4.6.1-2": "patch",
+            "applied/4.6.1-1build4": "patch",
+            "applied/4.5.1.1-1.1ubuntu0.20.04.2": "patch",
+            "applied/4.5.0.7-1ubuntu2.18.04.3": "patch",
+            "applied/4.5.0.3-1ubuntu0.4": "patch"
+        }
+    },
+    "CVE-2023-25566": {
+        "ubuntu@@+source@@gss-ntlmssp": {
+            "applied/1.2.0-1build3": "patch",
+            "applied/0.7.0-4build4": "no_vul",
+            "applied/0.7.0-4build3": "no_vul"
+        }
+    },
+    "CVE-2020-9760": {
+        "ubuntu@@+source@@weechat": {
+            "applied/4.4.2-1": "patch",
+            "applied/4.3.1-1build2": "patch",
+            "applied/4.1.1-1build7": "patch",
+            "applied/3.5-1": "unpatch",
+            "applied/2.8-1": "patch",
+            "applied/1.9.1-1ubuntu1": "unpatch",
+            "applied/1.4-2ubuntu0.1": "unpatch",
+            "applied/0.4.2-3ubuntu0.1": "unpatch"
+        }
+    },
+    "CVE-2022-1533": {
+        "ubuntu@@+source@@libmobi": {
+            "applied/0.12+dfsg-1": "patch",
+            "applied/0.11+dfsg-1.1build1": "patch",
+            "applied/0.9+dfsg1-1": "unpatch"
+        }
+    },
+    "CVE-2022-23613": {
+        "ubuntu@@+source@@xrdp": {
+            "applied/0.10.1-2": "no_vul",
+            "applied/0.9.24-4": "patch",
+            "applied/0.9.17-2ubuntu2": "unpatch",
+            "applied/0.9.12-1ubuntu0.1": "no_vul",
+            "applied/0.9.5-2": "no_vul",
+            "applied/0.6.1-2ubuntu0.3": "no_vul",
+            "applied/0.6.0-1ubuntu0.1": "unpatch"
+        }
+    },
+    "CVE-2023-46853": {
+        "ubuntu@@+source@@memcached": {
+            "applied/1.6.29-1": "patch",
+            "applied/1.6.24-1build3": "patch",
+            "applied/1.6.14-1ubuntu0.1": "no_vul",
+            "applied/1.5.22-2ubuntu0.3": "no_vul",
+            "applied/1.5.6-0ubuntu1.2": "no_vul",
+            "applied/1.4.25-2ubuntu1.5": "no_vul",
+            "applied/1.4.14-0ubuntu9.3": "no_vul"
+        }
+    },
+    "CVE-2020-12279": {
+        "ubuntu@@+source@@libgit2": {
+            "applied/1.7.2+ds-1ubuntu3": "unpatch",
+            "applied/1.1.0+dfsg.1-4.1ubuntu0.1": "unpatch",
+            "applied/0.28.4+dfsg.1-2ubuntu0.1": "unpatch",
+            "applied/0.26.0+dfsg.1-1.1ubuntu0.2": "unpatch",
+            "applied/0.24.1-2ubuntu0.2": "unpatch",
+            "applied/0.19.0-2ubuntu0.4": "no_vul"
+        }
+    },
+    "CVE-2022-47517": {
+        "ubuntu@@+source@@sofia-sip": {
+            "applied/1.12.11+20110422.1-2.1+deb10u3ubuntu0.22.04.2": "patch",
+            "applied/1.12.11+20110422.1-2.1+deb10u3ubuntu0.20.04.2": "patch",
+            "applied/1.12.11+20110422.1-2.1+deb10u3build0.18.04.1": "patch",
+            "applied/1.12.11+20110422.1-2ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2022-0204": {
+        "ubuntu@@+source@@bluez": {
+            "applied/5.78-0ubuntu2": "patch",
+            "applied/5.77-0ubuntu1": "patch",
+            "applied/5.72-0ubuntu5": "patch",
+            "applied/5.64-0ubuntu1.3": "patch",
+            "applied/5.53-0ubuntu3.8": "patch",
+            "applied/5.48-0ubuntu3.9": "patch",
+            "applied/5.37-0ubuntu5.3": "unpatch",
+            "applied/4.101-0ubuntu13.3": "no_vul"
+        }
+    },
+    "CVE-2022-29242": {
+        "ubuntu@@+source@@libengine-gost-openssl": {
+            "applied/3.0.2-1build2": "patch"
+        }
+    },
+    "CVE-2020-7042": {
+        "ubuntu@@+source@@openfortivpn": {
+            "applied/1.22.1-1": "patch",
+            "applied/1.21.0-2build2": "patch",
+            "applied/1.17.1-1build1": "patch",
+            "applied/1.12.0-1": "patch",
+            "applied/1.6.0-1build1": "unpatch"
+        }
+    },
+    "CVE-2023-49286": {
+        "ubuntu@@+source@@squid": {
+            "applied/6.10-1ubuntu1": "patch",
+            "applied/6.6-1ubuntu5.1": "patch",
+            "applied/5.9-0ubuntu0.22.04.2": "patch",
+            "applied/4.10-1ubuntu1.13": "patch"
+        }
+    },
+    "CVE-2020-16588": {
+        "ubuntu@@+source@@openexr": {
+            "applied/3.1.5-5.1build3": "patch",
+            "applied/2.5.7-1": "patch",
+            "applied/2.3.0-6ubuntu0.5": "patch",
+            "applied/2.2.0-11.1ubuntu1.9": "patch",
+            "applied/2.2.0-10ubuntu2.6": "patch",
+            "applied/1.6.1-7ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2022-23476": {
+        "ubuntu@@+source@@ruby-nokogiri": {
+            "applied/1.16.4+dfsg-1build1": "patch",
+            "applied/1.16.2+dfsg-1build1": "patch",
+            "applied/1.13.1+dfsg-2": "patch",
+            "applied/1.10.7+dfsg1-2build1": "no_vul",
+            "applied/1.8.2-1ubuntu0.1": "no_vul",
+            "applied/1.6.7.2-3ubuntu0.1": "no_vul",
+            "applied/1.6.1+ds-1": "no_vul"
+        }
+    },
+    "CVE-2020-11958": {
+        "ubuntu@@+source@@re2c": {
+            "applied/3.1-1build1": "patch",
+            "applied/3.0-1": "patch",
+            "applied/1.3-1ubuntu0.1": "patch",
+            "applied/1.0.1-1": "no_vul",
+            "applied/0.16-1": "no_vul",
+            "applied/0.13.5-1build2": "no_vul"
+        }
+    },
+    "CVE-2023-45897": {
+        "ubuntu@@+source@@exfatprogs": {
+            "applied/1.2.5-2": "patch",
+            "applied/1.2.2-1build1": "patch",
+            "applied/1.1.3-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2020-26164": {
+        "ubuntu@@+source@@kdeconnect": {
+            "applied/24.05.2-0ubuntu1": "patch",
+            "applied/23.08.5-0ubuntu5": "patch",
+            "applied/21.12.3-0ubuntu1": "patch",
+            "applied/1.4-0ubuntu5": "patch",
+            "applied/1.3.3-0ubuntu0.18.04.1": "unpatch",
+            "applied/0.8-0ubuntu5": "unpatch"
+        }
+    },
+    "CVE-2022-3996": {
+        "ubuntu@@+source@@openssl": {
+            "applied/3.3.1-2ubuntu2": "patch",
+            "applied/3.0.13-0ubuntu3.4": "patch",
+            "applied/3.0.2-0ubuntu1.18": "patch",
+            "applied/1.1.1f-1ubuntu2.23": "unpatch",
+            "applied/1.0.2g-1ubuntu4.20": "unpatch",
+            "applied/1.0.1f-1ubuntu2.27": "unpatch"
+        }
+    },
+    "CVE-2023-4508": {
+        "ubuntu@@+source@@gerbv": {
+            "applied/2.10.0-1build2": "patch",
+            "applied/2.8.2-1": "unpatch",
+            "applied/2.7.0-1ubuntu0.2": "patch",
+            "applied/2.6.1-3": "patch",
+            "applied/2.6.0-1": "patch"
+        }
+    },
+    "CVE-2020-14954": {
+        "ubuntu@@+source@@neomutt": {
+            "applied/20240425+dfsg-2": "patch",
+            "applied/20231103+dfsg1-1build3": "patch",
+            "applied/20211029+dfsg1-1": "patch",
+            "applied/20191207+dfsg.1-1.1": "unpatch",
+            "applied/20171215+dfsg.1-1": "unpatch"
+        }
+    },
+    "CVE-2024-22051": {
+        "ubuntu@@+source@@ruby-commonmarker": {
+            "applied/0.23.10-1build3": "patch",
+            "applied/0.23.10-1build2": "patch",
+            "applied/0.23.2-2": "unpatch",
+            "applied/0.20.2-1build1": "unpatch"
+        }
+    },
+    "CVE-2020-5208": {
+        "ubuntu@@+source@@ipmitool": {
+            "applied/1.8.19-7ubuntu1": "patch",
+            "applied/1.8.19-7build2": "patch",
+            "applied/1.8.18-11ubuntu2.1": "patch",
+            "applied/1.8.18-8ubuntu0.2": "patch",
+            "applied/1.8.18-5ubuntu0.2": "patch",
+            "applied/1.8.16-3ubuntu0.2": "unpatch",
+            "applied/1.8.13-1ubuntu0.6": "unpatch"
+        }
+    },
+    "CVE-2022-4254": {
+        "ubuntu@@+source@@sssd": {
+            "applied/2.9.5-3ubuntu2": "patch",
+            "applied/2.9.4-1.1ubuntu6.1": "patch",
+            "applied/2.6.3-1ubuntu3.4": "patch",
+            "applied/2.2.3-3ubuntu0.13": "unpatch",
+            "applied/1.16.1-1ubuntu1.8": "unpatch",
+            "applied/1.13.4-1ubuntu1.15": "no_vul",
+            "applied/1.11.8-0ubuntu0.7": "no_vul"
+        }
+    },
+    "CVE-2020-29367": {
+        "ubuntu@@+source@@c-blosc2": {
+            "applied/2.15.1+ds-1": "patch",
+            "applied/2.13.1+ds-1.1ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-35978": {
+        "ubuntu@@+source@@minetest": {
+            "applied/5.4.1+repack-2build1": "no_vul",
+            "applied/5.1.1+repack-1build1": "no_vul",
+            "applied/0.4.16+repack-4": "no_vul",
+            "applied/0.4.13+repack-1build1": "no_vul",
+            "applied/0.4.9+repack-4ubuntu1": "no_vul"
+        }
+    },
+    "CVE-2022-48620": {
+        "ubuntu@@+source@@libuev": {
+            "applied/2.4.1-1build1": "patch",
+            "applied/2.4.0-1.1": "unpatch"
+        }
+    },
+    "CVE-2022-21227": {
+        "ubuntu@@+source@@node-sqlite3": {
+            "applied/5.1.5+ds1-1build2": "patch",
+            "applied/5.1.5+ds1-1build1": "patch",
+            "applied/5.0.2+ds1-3": "unpatch",
+            "applied/4.1.1+ds1-1build1": "no_vul",
+            "applied/3.1.8+ds1-2build2": "no_vul",
+            "applied/2.2.0+ds1-1": "unpatch"
+        }
+    },
+    "CVE-2020-1892": {
+        "ubuntu@@+source@@hhvm": {
+            "applied/3.21.0+dfsg-2ubuntu2": "no_vul",
+            "applied/3.11.1+dfsg-1ubuntu1": "no_vul"
+        }
+    },
+    "CVE-2021-26926": {
+        "ubuntu@@+source@@jasper": {
+            "applied/1.900.1-debian1-2.4ubuntu1.3": "unpatch",
+            "applied/1.900.1-14ubuntu3.5": "unpatch"
+        }
+    },
+    "CVE-2021-20286": {
+        "ubuntu@@+source@@libnbd": {
+            "applied/1.20.3-1": "patch",
+            "applied/1.20.0-1": "patch",
+            "applied/1.10.5-1": "patch",
+            "applied/1.2.2-1ubuntu2": "no_vul"
+        }
+    },
+    "CVE-2021-3345": {
+        "ubuntu@@+source@@libgcrypt20": {
+            "applied/1.11.0-6ubuntu1": "patch",
+            "applied/1.10.3-2build1": "patch",
+            "applied/1.9.4-3ubuntu3.1": "patch",
+            "applied/1.8.5-5ubuntu1.1": "no_vul",
+            "applied/1.8.1-4ubuntu1.3": "no_vul",
+            "applied/1.6.5-2ubuntu0.6": "no_vul",
+            "applied/1.6.1-2ubuntu1.14.04.1": "no_vul"
+        }
+    },
+    "CVE-2020-36177": {
+        "ubuntu@@+source@@wolfssl": {
+            "applied/5.7.2-0.1": "patch",
+            "applied/5.6.6-1.3build1": "patch",
+            "applied/5.2.0-2": "patch",
+            "applied/4.3.0+dfsg-2": "unpatch",
+            "applied/3.13.0+dfsg-1": "unpatch",
+            "applied/3.4.8+dfsg-1": "no_vul"
+        }
+    },
+    "CVE-2020-12658": {
+        "ubuntu@@+source@@gssproxy": {
+            "applied/0.9.2-2build2": "patch",
+            "applied/0.8.4-2": "patch",
+            "applied/0.8.2-2ubuntu0.20.04.1": "unpatch",
+            "applied/0.8.0-1": "unpatch"
+        }
+    },
+    "CVE-2020-5235": {
+        "ubuntu@@+source@@nanopb": {
+            "applied/0.4.8-2": "patch",
+            "applied/0.4.8-1": "patch",
+            "applied/0.4.5-2": "patch",
+            "applied/0.4.1-1": "patch"
+        }
+    },
+    "CVE-2020-28896": {
+        "ubuntu@@+source@@mutt": {
+            "applied/2.2.13-1": "patch",
+            "applied/2.2.12-0.1build4": "patch",
+            "applied/2.1.4-1ubuntu1.2": "patch",
+            "applied/1.13.2-1ubuntu0.6": "patch",
+            "applied/1.9.4-3ubuntu0.6": "patch",
+            "applied/1.5.24-1ubuntu0.6": "patch",
+            "applied/1.5.21-6.4ubuntu2.2": "unpatch"
+        }
+    },
+    "CVE-2020-9274": {
+        "ubuntu@@+source@@pure-ftpd": {
+            "applied/1.0.50-2.2build2": "patch",
+            "applied/1.0.50-2.1ubuntu0.22.04.1": "patch",
+            "applied/1.0.49-4ubuntu0.1": "patch",
+            "applied/1.0.46-1ubuntu18.04.1": "patch",
+            "applied/1.0.36-3.2+deb8u1build0.16.04.1": "patch",
+            "applied/1.0.36-1.1ubuntu0.1": "patch"
+        }
+    },
+    "CVE-2020-11080": {
+        "ubuntu@@+source@@nghttp2": {
+            "applied/1.62.1-2": "patch",
+            "applied/1.59.0-1ubuntu0.2": "patch",
+            "applied/1.43.0-1ubuntu0.2": "patch",
+            "applied/1.40.0-1ubuntu0.3": "patch",
+            "applied/1.30.0-1ubuntu1": "unpatch",
+            "applied/1.7.1-1": "unpatch"
+        }
+    },
+    "CVE-2020-5310": {
+        "ubuntu@@+source@@pillow": {
+            "applied/10.4.0-1ubuntu1": "patch",
+            "applied/10.2.0-1ubuntu1": "patch",
+            "applied/9.0.1-1ubuntu0.3": "patch",
+            "applied/7.0.0-4ubuntu0.9": "patch",
+            "applied/5.1.0-1ubuntu0.8": "no_vul",
+            "applied/3.1.2-0ubuntu1.6": "no_vul",
+            "applied/2.3.0-1ubuntu3.4": "no_vul"
+        }
+    },
+    "CVE-2020-13114": {
+        "ubuntu@@+source@@libexif": {
+            "applied/0.6.24-1build2": "patch",
+            "applied/0.6.24-1build1": "patch",
+            "applied/0.6.21-6ubuntu0.4": "patch",
+            "applied/0.6.21-4ubuntu0.6": "patch",
+            "applied/0.6.21-2ubuntu0.6": "patch",
+            "applied/0.6.21-1ubuntu1": "unpatch"
+        }
+    },
+    "CVE-2020-12268": {
+        "ubuntu@@+source@@jbig2dec": {
+            "applied/0.20-1build3": "patch",
+            "applied/0.19-3build2": "patch",
+            "applied/0.18-1ubuntu1": "patch",
+            "applied/0.13-6": "unpatch",
+            "applied/0.12+20150918-1ubuntu0.1": "unpatch",
+            "applied/0.11+20120125-1ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2020-25866": {
+        "ubuntu@@+source@@wireshark": {
+            "applied/4.2.6-1": "patch",
+            "applied/4.2.2-1.1build3": "patch",
+            "applied/3.6.2-2": "patch",
+            "applied/3.2.3-1": "unpatch"
+        }
+    },
+    "CVE-2021-26826": {
+        "ubuntu@@+source@@godot": {
+            "applied/3.5.2-stable-2build4": "patch",
+            "applied/3.2.3-stable-1build2": "unpatch",
+            "applied/3.2-stable-2": "unpatch"
+        }
+    },
+    "CVE-2021-26567": {
+        "ubuntu@@+source@@faad2": {
+            "applied/2.11.1-1build1": "no_vul",
+            "applied/2.10.0-2": "no_vul",
+            "applied/2.9.1-1ubuntu0.1": "no_vul",
+            "applied/2.8.8-1": "no_vul",
+            "applied/2.7-8+deb7u1build0.14.04.1": "no_vul"
+        }
+    },
+    "CVE-2021-27229": {
+        "ubuntu@@+source@@mumble": {
+            "applied/1.5.517-2build1": "patch",
+            "applied/1.5.517-1ubuntu2": "patch",
+            "applied/1.3.4-1ubuntu1": "patch",
+            "applied/1.3.0+dfsg-1ubuntu0.1": "patch",
+            "applied/1.2.19-1ubuntu1.1": "patch",
+            "applied/1.2.12-1ubuntu1": "unpatch",
+            "applied/1.2.4-0.2ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2021-28650": {
+        "ubuntu@@+source@@gnome-autoar": {
+            "applied/0.4.5-1": "patch",
+            "applied/0.4.4-2build4": "patch",
+            "applied/0.4.3-1": "patch",
+            "applied/0.2.3-2ubuntu0.4": "patch",
+            "applied/0.2.3-1ubuntu0.4": "patch"
+        }
+    },
+    "CVE-2020-20739": {
+        "ubuntu@@+source@@vips": {
+            "applied/8.15.2-2": "patch",
+            "applied/8.15.1-1.1build4": "patch",
+            "applied/8.12.1-1build1": "patch",
+            "applied/8.9.1-2": "patch",
+            "applied/8.4.5-1build1": "unpatch",
+            "applied/8.2.2-1": "unpatch",
+            "applied/7.38.5-2": "unpatch"
+        }
+    },
+    "CVE-2020-15862": {
+        "ubuntu@@+source@@net-snmp": {
+            "applied/5.9.4+dfsg-1.1ubuntu5": "patch",
+            "applied/5.9.4+dfsg-1.1ubuntu4": "patch",
+            "applied/5.9.4+dfsg-1.1ubuntu3": "patch",
+            "applied/5.9.1+dfsg-1ubuntu2.6": "patch",
+            "applied/5.8+dfsg-2ubuntu2.9": "patch",
+            "applied/5.7.3+dfsg-1.8ubuntu3.8": "patch",
+            "applied/5.7.3+dfsg-1ubuntu4.6": "patch"
+        }
+    },
+    "CVE-2020-35457": {
+        "ubuntu@@+source@@glib2.0": {
+            "applied/2.82.1-0ubuntu1": "patch",
+            "applied/2.80.0-6ubuntu3.1": "patch",
+            "applied/2.72.4-0ubuntu2.3": "patch",
+            "applied/2.56.4-0ubuntu0.18.04.9": "unpatch",
+            "applied/2.48.2-0ubuntu4.8": "unpatch",
+            "applied/2.40.2-0ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2020-14928": {
+        "ubuntu@@+source@@evolution-data-server": {
+            "applied/3.54.0-1": "patch",
+            "applied/3.52.3-0ubuntu1": "patch",
+            "applied/3.44.4-0ubuntu1.1": "patch",
+            "applied/3.36.5-0ubuntu1": "patch",
+            "applied/3.28.5-0ubuntu0.18.04.3": "patch",
+            "applied/3.18.5-1ubuntu1.3": "patch",
+            "applied/3.10.4-0ubuntu1.6": "patch"
+        }
+    },
+    "CVE-2020-13775": {
+        "ubuntu@@+source@@znc": {
+            "applied/1.9.1-2": "patch",
+            "applied/1.9.1-1": "patch",
+            "applied/1.9.0-2build3": "patch",
+            "applied/1.8.2-2ubuntu0.1": "patch",
+            "applied/1.7.5-4": "unpatch",
+            "applied/1.6.6-1ubuntu0.2": "no_vul",
+            "applied/1.6.3-1ubuntu0.2": "no_vul",
+            "applied/1.2-3ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2020-1763": {
+        "ubuntu@@+source@@libreswan": {
+            "applied/4.14-1ubuntu2": "patch",
+            "applied/3.32-3ubuntu3": "patch",
+            "applied/3.29-2build1": "unpatch",
+            "applied/3.23-4": "unpatch"
+        }
+    },
+    "CVE-2020-13249": {
+        "ubuntu@@+source@@mariadb-connector-c": {
+            "applied/3.0.3-1build1": "unpatch"
+        }
+    },
+    "CVE-2020-6095": {
+        "ubuntu@@+source@@gst-rtsp-server1.0": {
+            "applied/1.24.8-1": "patch",
+            "applied/1.24.2-1": "patch",
+            "applied/1.20.1-1": "patch",
+            "applied/1.16.2-3": "patch",
+            "applied/1.6.2-1": "unpatch"
+        }
+    },
+    "CVE-2020-27347": {
+        "ubuntu@@+source@@tmux": {
+            "applied/3.4-7": "patch",
+            "applied/3.4-1ubuntu0.1": "patch",
+            "applied/3.2a-4ubuntu0.2": "patch",
+            "applied/3.0a-2ubuntu0.4": "patch",
+            "applied/2.6-3ubuntu0.3": "no_vul",
+            "applied/2.1-3build1": "no_vul",
+            "applied/1.8-5": "no_vul"
+        }
+    },
+    "CVE-2020-29074": {
+        "ubuntu@@+source@@x11vnc": {
+            "applied/0.9.16-10": "patch",
+            "applied/0.9.16-8": "patch",
+            "applied/0.9.16-3": "unpatch",
+            "applied/0.9.13-3": "unpatch",
+            "applied/0.9.13-1.2build1": "unpatch",
+            "applied/0.9.13-1.1": "unpatch"
+        }
+    },
+    "CVE-2020-27638": {
+        "ubuntu@@+source@@fastd": {
+            "applied/22-4build2": "patch",
+            "applied/22-2build1": "patch",
+            "applied/18-3ubuntu0.1": "patch",
+            "applied/18-3ubuntu0.18.04.1": "patch",
+            "applied/17-4ubuntu0.1": "patch"
+        }
+    },
+    "CVE-2020-16118": {
+        "ubuntu@@+source@@balsa": {
+            "applied/2.6.4-2build5": "patch",
+            "applied/2.6.3-1": "patch",
+            "applied/2.6.0-2ubuntu0.1": "patch",
+            "applied/2.5.3-4": "unpatch",
+            "applied/2.4.12-2": "unpatch",
+            "applied/2.4.12-1": "unpatch"
+        }
+    },
+    "CVE-2020-13881": {
+        "ubuntu@@+source@@libpam-tacplus": {
+            "applied/1.3.8-2.1": "patch",
+            "applied/1.3.8-2+deb8u1build0.20.04.1": "patch",
+            "applied/1.3.8-2+deb8u1build0.18.04.1": "patch",
+            "applied/1.3.8-2+deb8u1build0.16.04.1": "patch",
+            "applied/1.3.8-2": "unpatch"
+        }
+    },
+    "CVE-2020-5238": {
+        "ubuntu@@+source@@cmark-gfm": {
+            "applied/0.29.0.gfm.6-6build1": "patch",
+            "applied/0.29.0.gfm.3-3": "patch",
+            "applied/0.29.0.gfm.0-4": "unpatch"
+        }
+    },
+    "CVE-2020-10232": {
+        "ubuntu@@+source@@sleuthkit": {
+            "applied/4.12.1+dfsg-1.1ubuntu2": "patch",
+            "applied/4.11.1+dfsg-1": "patch",
+            "applied/4.6.7-1build1": "unpatch",
+            "applied/4.4.2-3": "unpatch",
+            "applied/4.2.0-3": "unpatch",
+            "applied/3.2.3-2.2": "no_vul"
+        }
+    },
+    "CVE-2020-35573": {
+        "ubuntu@@+source@@postsrsd": {
+            "applied/1.10-2.1build1": "patch",
+            "applied/1.10-2": "patch",
+            "applied/1.5-2": "unpatch",
+            "applied/1.4-1ubuntu0.1": "patch",
+            "applied/1.2-1": "unpatch"
+        }
+    },
+    "CVE-2023-1428": {
+        "ubuntu@@+source@@grpc": {
+            "applied/1.51.1-4.1ubuntu1": "no_vul",
+            "applied/1.51.1-4.1build5": "no_vul",
+            "applied/1.30.2-3build6": "no_vul",
+            "applied/1.16.1-1ubuntu5": "no_vul",
+            "applied/0.11.1-1": "no_vul"
+        }
+    },
+    "CVE-2020-24717": {
+        "ubuntu@@+source@@zfs-linux": {
+            "applied/2.2.6-1ubuntu1": "patch",
+            "applied/2.2.2-0ubuntu9.1": "patch",
+            "applied/0.8.3-1ubuntu12.18": "no_vul",
+            "applied/0.7.5-1ubuntu16.12": "no_vul",
+            "applied/0.6.5.6-0ubuntu30": "no_vul"
+        }
+    },
+    "CVE-2020-21674": {
+        "ubuntu@@+source@@libarchive": {
+            "applied/3.7.4-1": "patch",
+            "applied/3.7.2-2ubuntu0.2": "patch",
+            "applied/3.6.0-1ubuntu1.2": "patch",
+            "applied/3.4.0-2ubuntu1.3": "unpatch",
+            "applied/3.2.2-3.1ubuntu0.7": "unpatch",
+            "applied/3.1.2-7ubuntu2.8": "unpatch"
+        }
+    },
+    "CVE-2020-36254": {
+        "ubuntu@@+source@@dropbear": {
+            "applied/2024.85-3": "patch",
+            "applied/2022.83-4": "patch",
+            "applied/2020.81-5": "patch",
+            "applied/2019.78-2build1": "unpatch",
+            "applied/2017.75-3build1": "unpatch",
+            "applied/2016.72-1": "unpatch",
+            "applied/2013.60-1ubuntu2.1": "unpatch"
+        }
+    },
+    "CVE-2020-24619": {
+        "ubuntu@@+source@@shotcut": {
+            "applied/24.04.28+ds-1build1": "patch",
+            "applied/24.02.29+ds-1build1": "patch",
+            "applied/22.01.30+ds-1": "patch",
+            "applied/20.02.17-2": "unpatch"
+        }
+    },
+    "CVE-2020-12066": {
+        "ubuntu@@+source@@teeworlds": {
+            "applied/0.7.5-2": "patch",
+            "applied/0.7.5-1": "patch",
+            "applied/0.7.2-5ubuntu1.1": "patch",
+            "applied/0.6.4+dfsg-1": "no_vul",
+            "applied/0.6.2+dfsg-2": "no_vul"
+        }
+    },
+    "CVE-2020-15261": {
+        "ubuntu@@+source@@veyon": {
+            "applied/4.7.5+repack1-1ubuntu6": "no_vul",
+            "applied/4.7.5+repack1-1ubuntu5": "no_vul",
+            "applied/4.5.3+repack1-1build2": "no_vul",
+            "applied/4.3.1+repack1-2build2": "no_vul"
+        }
+    },
+    "CVE-2020-5291": {
+        "ubuntu@@+source@@bubblewrap": {
+            "applied/0.10.0-1": "patch",
+            "applied/0.9.0-1ubuntu0.1": "patch",
+            "applied/0.6.1-1ubuntu0.1": "patch",
+            "applied/0.4.0-1ubuntu4.1": "patch",
+            "applied/0.2.1-1ubuntu0.1": "unpatch"
+        }
+    },
+    "CVE-2020-11810": {
+        "ubuntu@@+source@@openvpn": {
+            "applied/2.6.12-1ubuntu1": "patch",
+            "applied/2.6.12-0ubuntu0.24.04.1": "patch",
+            "applied/2.5.11-0ubuntu0.22.04.1": "patch",
+            "applied/2.4.12-0ubuntu0.20.04.2": "patch",
+            "applied/2.4.4-2ubuntu1.7": "patch",
+            "applied/2.3.10-1ubuntu2.2": "no_vul",
+            "applied/2.3.2-7ubuntu3.2": "no_vul"
+        }
+    },
+    "CVE-2020-26298": {
+        "ubuntu@@+source@@ruby-redcarpet": {
+            "applied/3.6.0-1build3": "patch",
+            "applied/3.6.0-1build2": "patch",
+            "applied/3.5.1-1build2": "patch",
+            "applied/3.5.0-1build1": "unpatch",
+            "applied/3.4.0-4build1": "unpatch",
+            "applied/3.3.4-2build1": "unpatch",
+            "applied/3.0.0-1": "no_vul"
+        }
+    },
+    "CVE-2020-15503": {
+        "ubuntu@@+source@@libraw": {
+            "applied/0.21.2-2.1build1": "patch",
+            "applied/0.20.2-2ubuntu2.22.04.1": "patch",
+            "applied/0.19.5-1ubuntu1.3": "patch",
+            "applied/0.18.8-1ubuntu0.4": "unpatch",
+            "applied/0.17.1-1ubuntu0.5": "unpatch",
+            "applied/0.15.4-1ubuntu0.3": "unpatch"
+        }
+    },
+    "CVE-2020-35605": {
+        "ubuntu@@+source@@kitty": {
+            "applied/0.35.2-1": "patch",
+            "applied/0.32.2-1ubuntu0.2": "patch",
+            "applied/0.21.2-1ubuntu0.22.04.1": "patch",
+            "applied/0.15.0-1ubuntu0.2": "patch"
+        }
+    },
+    "CVE-2020-8597": {
+        "ubuntu@@+source@@ppp": {
+            "applied/2.5.0-1+2ubuntu1": "patch",
+            "applied/2.4.9-1+1.1ubuntu4": "patch",
+            "applied/2.4.9-1+1ubuntu3": "patch",
+            "applied/2.4.7-2+4.1ubuntu5.1": "patch",
+            "applied/2.4.7-2+2ubuntu1.3": "patch",
+            "applied/2.4.7-1+2ubuntu1.16.04.3": "patch",
+            "applied/2.4.5-5.1ubuntu2.3": "unpatch"
+        }
+    },
+    "CVE-2024-0217": {
+        "ubuntu@@+source@@packagekit": {
+            "applied/1.3.0-1": "patch",
+            "applied/1.2.8-2build3": "patch",
+            "applied/1.2.5-2ubuntu2": "unpatch",
+            "applied/1.1.13-2ubuntu1.1": "unpatch",
+            "applied/1.1.9-1ubuntu2.18.04.6": "unpatch",
+            "applied/0.8.12-1ubuntu5": "unpatch"
+        }
+    },
+    "CVE-2023-1801": {
+        "ubuntu@@+source@@tcpdump": {
+            "applied/4.99.4-3ubuntu4": "patch",
+            "applied/4.99.1-3ubuntu0.2": "unpatch",
+            "applied/4.9.3-4ubuntu0.3": "unpatch",
+            "applied/4.9.3-0ubuntu0.18.04.3": "unpatch",
+            "applied/4.9.3-0ubuntu0.16.04.1": "unpatch",
+            "applied/4.9.2-0ubuntu0.14.04.1": "unpatch"
+        }
+    },
+    "CVE-2022-48468": {
+        "ubuntu@@+source@@protobuf-c": {
+            "applied/1.4.1-1ubuntu4": "patch",
+            "applied/1.3.3-1ubuntu2.1": "patch",
+            "applied/1.3.3-1ubuntu0.2": "patch",
+            "applied/1.2.1-2": "unpatch",
+            "applied/1.2.1-1": "unpatch",
+            "applied/0.15-1build1": "unpatch"
+        }
+    },
+    "CVE-2022-25051": {
+        "ubuntu@@+source@@rtl-433": {
+            "applied/23.11-2": "patch",
+            "applied/23.11-1build1": "patch",
+            "applied/21.12-1": "unpatch",
+            "applied/20.02-1": "no_vul"
+        }
+    },
+    "CVE-2022-2301": {
+        "ubuntu@@+source@@chafa": {
+            "applied/1.14.2-1": "patch",
+            "applied/1.14.0-1.1build1": "patch",
+            "applied/1.8.0-1": "unpatch",
+            "applied/1.2.1-1": "unpatch"
+        }
+    },
+    "CVE-2022-23308": {
+        "ubuntu@@+source@@libxml2": {
+            "applied/2.12.7+dfsg-3": "patch",
+            "applied/2.9.14+dfsg-1.3ubuntu3": "patch",
+            "applied/2.9.13+dfsg-1ubuntu0.4": "patch",
+            "applied/2.9.10+dfsg-5ubuntu0.20.04.7": "patch",
+            "applied/2.9.4+dfsg1-6.1ubuntu1.9": "patch",
+            "applied/2.9.3+dfsg1-1ubuntu0.7": "unpatch",
+            "applied/2.9.1+dfsg1-3ubuntu4.13": "unpatch"
+        }
+    },
+    "CVE-2022-0367": {
+        "ubuntu@@+source@@libmodbus": {
+            "applied/3.1.10-2": "patch",
+            "applied/3.1.10-1ubuntu1": "patch",
+            "applied/3.1.6-2": "unpatch",
+            "applied/3.0.6-2+deb9u1build0.18.04.1": "unpatch",
+            "applied/3.0.6-1": "unpatch",
+            "applied/3.0.5-1": "unpatch"
+        }
+    },
+    "CVE-2022-38493": {
+        "ubuntu@@+source@@rhonabwy": {
+            "applied/1.1.13-2.1build3": "patch",
+            "applied/1.1.2-1": "unpatch"
+        }
+    },
+    "CVE-2023-28486": {
+        "ubuntu@@+source@@sudo": {
+            "applied/1.9.15p5-3ubuntu5": "patch",
+            "applied/1.9.9-1ubuntu2.4": "patch",
+            "applied/1.8.31-1ubuntu1.5": "patch",
+            "applied/1.8.21p2-3ubuntu1.6": "patch",
+            "applied/1.8.16-0ubuntu1.10": "unpatch",
+            "applied/1.8.9p5-1ubuntu1.4": "unpatch"
+        }
+    },
+    "CVE-2022-40673": {
+        "ubuntu@@+source@@kdiskmark": {
+            "applied/3.1.3+ds-5": "patch",
+            "applied/3.1.3+ds-4build2": "patch"
+        }
+    },
+    "CVE-2022-3287": {
+        "ubuntu@@+source@@fwupd": {
+            "applied/1.9.26-2": "patch",
+            "applied/1.9.24-1": "patch",
+            "applied/0.8.3-0ubuntu5.1": "unpatch"
+        }
+    },
+    "CVE-2022-32323": {
+        "ubuntu@@+source@@autotrace": {
+            "applied/0.31.1-16+nmu1.2ubuntu0.1": "no_vul",
+            "applied/0.31.1-16+deb7u1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2022-47021": {
+        "ubuntu@@+source@@opusfile": {
+            "applied/0.12-4build3": "patch",
+            "applied/0.9+20170913-1.1build1": "unpatch",
+            "applied/0.9+20170913-1build1": "unpatch",
+            "applied/0.7-1": "unpatch",
+            "applied/0.5-1": "unpatch"
+        }
+    },
+    "CVE-2022-25643": {
+        "ubuntu@@+source@@seatd": {
+            "applied/0.8.0-1": "patch",
+            "applied/0.6.4-1": "patch"
+        }
+    },
+    "CVE-2022-44789": {
+        "ubuntu@@+source@@mujs": {
+            "applied/1.3.3-3build2": "unpatch",
+            "applied/1.1.3-3": "unpatch"
+        }
+    },
+    "CVE-2022-46152": {
+        "ubuntu@@+source@@optee-os": {
+            "applied/4.3.0-1ubuntu2": "patch"
+        }
+    },
+    "CVE-2022-28044": {
+        "ubuntu@@+source@@lrzip": {
+            "applied/0.651-2ubuntu1": "patch",
+            "applied/0.651-2ubuntu0.22.04.1": "patch",
+            "applied/0.631+git180528-1+deb10u1build0.20.04.1": "patch",
+            "applied/0.631-1+deb9u3build0.18.04.1": "patch",
+            "applied/0.621-1": "unpatch",
+            "applied/0.616-1": "unpatch"
+        }
+    },
+    "CVE-2022-4639": {
+        "ubuntu@@+source@@sslh": {
+            "applied/1.22c-1": "no_vul",
+            "applied/1.20-1": "no_vul",
+            "applied/1.18-1": "no_vul",
+            "applied/1.17-2": "no_vul",
+            "applied/1.15-1": "no_vul"
+        }
+    },
+    "CVE-2023-5521": {
+        "ubuntu@@+source@@kerneloops": {
+            "applied/0.12+git20181124-7ubuntu1": "no_vul",
+            "applied/0.12+git20140509-6ubuntu8": "no_vul",
+            "applied/0.12+git20140509-6ubuntu5": "no_vul",
+            "applied/0.12+git20140509-6ubuntu2": "no_vul",
+            "applied/0.12+git20140509-2ubuntu1": "no_vul",
+            "applied/0.12+git20090217-3ubuntu8": "no_vul"
+        }
+    },
+    "CVE-2023-39975": {
+        "ubuntu@@+source@@krb5": {
+            "applied/1.21.3-3": "patch",
+            "applied/1.20.1-6ubuntu2.2": "no_vul",
+            "applied/1.19.2-2ubuntu0.4": "no_vul",
+            "applied/1.17-6ubuntu4.7": "no_vul",
+            "applied/1.16-2ubuntu0.4": "no_vul",
+            "applied/1.13.2+dfsg-5ubuntu2.2": "no_vul",
+            "applied/1.12+dfsg-2ubuntu5.4": "no_vul"
+        }
+    },
+    "CVE-2022-46663": {
+        "ubuntu@@+source@@less": {
+            "applied/643-1": "patch",
+            "applied/590-2ubuntu2.1": "patch",
+            "applied/590-1ubuntu0.22.04.3": "patch",
+            "applied/551-1ubuntu0.3": "no_vul",
+            "applied/487-0.1": "no_vul",
+            "applied/481-2.1ubuntu0.2": "no_vul",
+            "applied/458-2": "no_vul"
+        }
+    },
+    "CVE-2022-26691": {
+        "ubuntu@@+source@@cups": {
+            "applied/2.4.10-1ubuntu2": "patch",
+            "applied/2.4.7-1.2ubuntu7.3": "patch",
+            "applied/2.4.1op1-1ubuntu4.11": "patch",
+            "applied/2.3.1-9ubuntu1.9": "patch",
+            "applied/2.2.7-1ubuntu2.10": "patch",
+            "applied/2.1.3-4ubuntu0.11": "unpatch",
+            "applied/1.7.2-0ubuntu1.11": "no_vul"
+        }
+    },
+    "CVE-2023-37378": {
+        "ubuntu@@+source@@nsis": {
+            "applied/3.09-4ubuntu1": "patch",
+            "applied/3.08-2": "unpatch",
+            "applied/3.05-2": "unpatch",
+            "applied/2.51-1": "unpatch",
+            "applied/2.50-1": "no_vul",
+            "applied/2.46-7": "no_vul"
+        }
+    },
+    "CVE-2023-28371": {
+        "ubuntu@@+source@@stellarium": {
+            "applied/24.2-1build1": "patch",
+            "applied/23.4-2build3": "patch",
+            "applied/0.20.4-3": "unpatch",
+            "applied/0.19.3-1build1": "unpatch",
+            "applied/0.18.0-1": "unpatch",
+            "applied/0.14.3-1": "no_vul",
+            "applied/0.12.4-1": "no_vul"
+        }
+    },
+    "CVE-2023-4863": {
+        "ubuntu@@+source@@libwebp": {
+            "applied/1.4.0-0.1": "patch",
+            "applied/1.3.2-0.4build3": "patch",
+            "applied/1.2.2-2ubuntu0.22.04.2": "patch",
+            "applied/0.6.1-2ubuntu0.20.04.3": "patch",
+            "applied/0.6.1-2ubuntu0.18.04.2": "unpatch",
+            "applied/0.4.4-1": "unpatch",
+            "applied/0.4.0-4": "unpatch"
+        }
+    },
+    "CVE-2023-35852": {
+        "ubuntu@@+source@@suricata": {
+            "applied/1%7.0.6-1": "patch",
+            "applied/1%7.0.3-1build3": "patch",
+            "applied/1%6.0.4-3": "unpatch",
+            "applied/3.2-2ubuntu3": "no_vul",
+            "applied/3.0-1": "no_vul",
+            "applied/1.4.7-1ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2023-40225": {
+        "ubuntu@@+source@@haproxy": {
+            "applied/2.9.10-1ubuntu1": "patch",
+            "applied/2.8.5-1ubuntu3.1": "patch",
+            "applied/2.4.24-0ubuntu0.22.04.1": "patch",
+            "applied/2.0.33-0ubuntu0.1": "patch",
+            "applied/1.8.8-1ubuntu0.13": "no_vul",
+            "applied/1.6.3-1ubuntu0.3": "no_vul"
+        }
+    },
+    "CVE-2022-24884": {
+        "ubuntu@@+source@@ecdsautils": {
+            "applied/0.4.1-3": "patch",
+            "applied/0.3.2+git20151018-2+deb10u1build0.22.04.1": "patch",
+            "applied/0.3.2+git20151018-2+deb10u1build0.20.04.1": "patch",
+            "applied/0.3.2+git20151018-2build1": "unpatch",
+            "applied/0.3.2+git20151018-2": "unpatch"
+        }
+    },
+    "CVE-2022-0699": {
+        "ubuntu@@+source@@shapelib": {
+            "applied/1.6.1-1": "patch",
+            "applied/1.6.0-1": "patch",
+            "applied/1.5.0-2": "unpatch",
+            "applied/1.5.0-1build1": "unpatch",
+            "applied/1.4.1-1": "unpatch",
+            "applied/1.3.0-5": "unpatch",
+            "applied/1.2.10-7": "no_vul"
+        }
+    },
+    "CVE-2022-0496": {
+        "ubuntu@@+source@@openscad": {
+            "applied/2021.01-7": "patch",
+            "applied/2021.01-6build4": "patch",
+            "applied/2021.01-4build1": "patch",
+            "applied/2019.05-3ubuntu5": "unpatch",
+            "applied/2015.03-1+dfsg-3": "unpatch",
+            "applied/2013.01+dfsg-2.2": "unpatch"
+        }
+    },
+    "CVE-2023-51698": {
+        "ubuntu@@+source@@atril": {
+            "applied/1.26.2-3build2": "patch",
+            "applied/1.26.0-1ubuntu1.1": "unpatch",
+            "applied/1.24.0-1ubuntu0.1": "unpatch",
+            "applied/1.20.1-2ubuntu2": "unpatch",
+            "applied/1.12.2-1ubuntu0.3": "unpatch"
+        }
+    },
+    "CVE-2022-3959": {
+        "ubuntu@@+source@@drogon": {
+            "applied/1.8.7+ds-1.1build1": "patch"
+        }
+    },
+    "CVE-2023-32762": {
+        "ubuntu@@+source@@qt6-base": {
+            "applied/6.6.2+dfsg-12": "patch",
+            "applied/6.4.2+dfsg-21.1build5": "unpatch",
+            "applied/6.2.4+dfsg-2ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2023-27478": {
+        "ubuntu@@+source@@libmemcached": {
+            "applied/1.1.4-1.1build3": "patch",
+            "applied/1.0.18-4.2ubuntu4": "unpatch",
+            "applied/1.0.18-4.2ubuntu2": "unpatch",
+            "applied/1.0.18-4.2ubuntu0.18.04.1": "unpatch",
+            "applied/1.0.18-4.1ubuntu2": "unpatch",
+            "applied/1.0.8-1ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-30292": {
+        "ubuntu@@+source@@squirrel3": {
+            "applied/3.1-8.2": "patch",
+            "applied/3.1-8build1": "unpatch",
+            "applied/3.1-5": "unpatch"
+        }
+    },
+    "CVE-2022-31117": {
+        "ubuntu@@+source@@ujson": {
+            "applied/5.10.0-1": "patch",
+            "applied/5.9.0-1build1": "patch",
+            "applied/5.1.0-1build1": "unpatch",
+            "applied/1.35-4ubuntu0.1": "unpatch",
+            "applied/1.35-2": "unpatch",
+            "applied/1.33-1build1": "unpatch"
+        }
+    },
+    "CVE-2022-0175": {
+        "ubuntu@@+source@@virglrenderer": {
+            "applied/1.0.0-1ubuntu2": "patch",
+            "applied/0.8.2-1ubuntu1.1": "no_vul",
+            "applied/0.6.0-2": "no_vul"
+        }
+    },
+    "CVE-2022-28550": {
+        "ubuntu@@+source@@jhead": {
+            "applied/1%3.08-2": "patch",
+            "applied/1%3.06.0.1-2ubuntu0.22.04.1": "unpatch",
+            "applied/1%3.04-1ubuntu0.2": "unpatch",
+            "applied/1%3.00-4+deb9u1build0.16.04.1": "unpatch",
+            "applied/1%2.97-1+deb8u1build0.14.04.1": "unpatch"
+        }
+    },
+    "CVE-2022-25882": {
+        "ubuntu@@+source@@onnx": {
+            "applied/1.16.2-1": "patch",
+            "applied/1.14.1-2.1build2": "patch",
+            "applied/1.7.0+dfsg-3ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-3510": {
+        "ubuntu@@+source@@protobuf": {
+            "applied/3.21.12-9ubuntu1": "patch",
+            "applied/3.21.12-8.2build1": "patch",
+            "applied/3.12.4-1ubuntu7.22.04.1": "unpatch",
+            "applied/3.6.1.3-2ubuntu5.2": "unpatch",
+            "applied/3.0.0-9.1ubuntu1.1": "unpatch",
+            "applied/2.6.1-1.3": "no_vul",
+            "applied/2.5.0-9ubuntu1": "no_vul"
+        }
+    },
+    "CVE-2022-39264": {
+        "ubuntu@@+source@@nheko": {
+            "applied/0.9.1-1": "unpatch",
+            "applied/0.6.4-2build2": "no_vul",
+            "applied/0.0+git20171116.21fdb26-2": "no_vul"
+        }
+    },
+    "CVE-2022-2553": {
+        "ubuntu@@+source@@booth": {
+            "applied/1.1-1ubuntu4": "patch",
+            "applied/1.0-237-gdd88847-4ubuntu2.2": "patch",
+            "applied/1.0-174-gce9f821-1ubuntu0.2": "patch",
+            "applied/1.0-6ubuntu1": "patch",
+            "applied/0.1.0-1.1": "unpatch"
+        }
+    },
+    "CVE-2023-47471": {
+        "ubuntu@@+source@@libde265": {
+            "applied/1.0.15-1build4": "patch",
+            "applied/1.0.15-1build3": "patch",
+            "applied/1.0.8-1ubuntu0.3": "patch",
+            "applied/1.0.4-1ubuntu0.4": "patch",
+            "applied/1.0.2-2build1": "unpatch",
+            "applied/1.0.2-2": "unpatch"
+        }
+    },
+    "CVE-2022-23467": {
+        "ubuntu@@+source@@openrazer": {
+            "applied/3.8.0+dfsg-1": "patch",
+            "applied/3.7.0+dfsg-1": "patch",
+            "applied/3.2.0+dfsg-3": "unpatch",
+            "applied/2.5.0+dfsg-1ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-0669": {
+        "ubuntu@@+source@@dpdk": {
+            "applied/23.11.2-0ubuntu1": "patch",
+            "applied/23.11-1build3": "patch",
+            "applied/21.11.6-0ubuntu0.22.04.1": "patch",
+            "applied/19.11.14-0ubuntu0.20.04.1": "patch",
+            "applied/17.11.10-0ubuntu0.2": "no_vul",
+            "applied/2.2.0-0ubuntu8": "no_vul"
+        }
+    },
+    "CVE-2023-23589": {
+        "ubuntu@@+source@@tor": {
+            "applied/0.4.8.12-1": "patch",
+            "applied/0.4.8.10-1build2": "patch",
+            "applied/0.4.6.10-1": "unpatch",
+            "applied/0.4.2.7-1": "unpatch",
+            "applied/0.3.2.10-1": "no_vul",
+            "applied/0.2.4.27-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2022-2652": {
+        "ubuntu@@+source@@v4l2loopback": {
+            "applied/0.13.2-1ubuntu1": "patch",
+            "applied/0.12.7-2ubuntu5": "patch",
+            "applied/0.12.3-1ubuntu0.4": "unpatch",
+            "applied/0.10.0-1ubuntu1.2": "unpatch",
+            "applied/0.9.1-4ubuntu0.1": "unpatch",
+            "applied/0.8.0-1": "unpatch"
+        }
+    },
+    "CVE-2022-45062": {
+        "ubuntu@@+source@@xfce4-settings": {
+            "applied/4.19.2-1ubuntu1": "unpatch",
+            "applied/4.18.4-0ubuntu3": "unpatch",
+            "applied/4.16.2-1ubuntu2.22.04.1": "unpatch",
+            "applied/4.14.3-0ubuntu1": "no_vul",
+            "applied/4.12.4-0ubuntu0.18.04.1": "no_vul",
+            "applied/4.12.0-2ubuntu1.16.04.1": "no_vul",
+            "applied/4.11.2-1ubuntu2": "no_vul"
+        }
+    },
+    "CVE-2023-22745": {
+        "ubuntu@@+source@@tpm2-tss": {
+            "applied/4.1.3-1ubuntu3": "patch",
+            "applied/4.0.1-7.1ubuntu5.1": "patch",
+            "applied/3.2.0-1ubuntu1.1": "patch",
+            "applied/2.3.2-1ubuntu0.20.04.2": "patch",
+            "applied/1.0-1": "no_vul",
+            "applied/0.98+20160226.d4f23cc-0ubuntu2": "no_vul"
+        }
+    },
+    "CVE-2023-29383": {
+        "ubuntu@@+source@@shadow": {
+            "applied/1%4.15.3-3ubuntu2": "patch",
+            "applied/1%4.13+dfsg1-4ubuntu3.2": "patch",
+            "applied/1%4.8.1-2ubuntu2.2": "unpatch",
+            "applied/1%4.8.1-1ubuntu5.20.04.5": "unpatch",
+            "applied/1%4.5-1ubuntu2.5": "unpatch",
+            "applied/1%4.2-3.1ubuntu5.4": "unpatch",
+            "applied/1%4.1.5.1-1ubuntu9.5": "unpatch"
+        }
+    },
+    "CVE-2022-23645": {
+        "ubuntu@@+source@@swtpm": {
+            "applied/0.7.3-0ubuntu7": "patch",
+            "applied/0.7.3-0ubuntu5.24.04.1": "patch",
+            "applied/0.6.3-0ubuntu3.3": "no_vul"
+        }
+    },
+    "CVE-2022-37434": {
+        "ubuntu@@+source@@zlib": {
+            "applied/1%1.3.dfsg+really1.3.1-1ubuntu1": "patch",
+            "applied/1%1.3.dfsg-3.1ubuntu2.1": "patch",
+            "applied/1%1.2.11.dfsg-2ubuntu9.2": "patch",
+            "applied/1%1.2.11.dfsg-2ubuntu1.5": "patch",
+            "applied/1%1.2.11.dfsg-0ubuntu2.2": "patch",
+            "applied/1%1.2.8.dfsg-2ubuntu4.3": "unpatch",
+            "applied/1%1.2.8.dfsg-1ubuntu1.1": "unpatch"
+        }
+    },
+    "CVE-2022-1341": {
+        "ubuntu@@+source@@bwm-ng": {
+            "applied/0.6.3-2": "patch",
+            "applied/0.6.2-1": "unpatch",
+            "applied/0.6.1-5": "unpatch",
+            "applied/0.6-3.2build1": "unpatch",
+            "applied/0.6-3.1ubuntu2": "unpatch"
+        }
+    },
+    "CVE-2022-1706": {
+        "ubuntu@@+source@@ignition": {
+            "applied/2.14.0+ds1-1ubuntu2": "patch",
+            "applied/2.14.0+ds1-1ubuntu3": "patch",
+            "applied/2.13.0+ds1-2ubuntu0.2": "unpatch"
+        }
+    },
+    "CVE-2023-5632": {
+        "ubuntu@@+source@@mosquitto": {
+            "applied/2.0.18-1.1": "patch",
+            "applied/2.0.18-1build3": "patch",
+            "applied/2.0.11-1ubuntu1.1": "patch",
+            "applied/1.6.9-1": "unpatch",
+            "applied/1.4.15-2ubuntu0.18.04.3": "no_vul",
+            "applied/1.4.8-1ubuntu0.16.04.7": "no_vul",
+            "applied/0.15-2+deb7u3ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2023-26130": {
+        "ubuntu@@+source@@cpp-httplib": {
+            "applied/0.15.3+ds-3": "patch",
+            "applied/0.14.3+ds-1.1build2": "patch",
+            "applied/0.10.3+ds-1": "no_vul"
+        }
+    },
+    "CVE-2022-31783": {
+        "ubuntu@@+source@@liblouis": {
+            "applied/3.30.0-2": "patch",
+            "applied/3.29.0-1build1": "patch",
+            "applied/3.20.0-2ubuntu0.2": "patch",
+            "applied/3.12.0-3ubuntu0.2": "patch",
+            "applied/3.5.0-1ubuntu0.5": "patch",
+            "applied/2.6.4-2ubuntu0.4": "no_vul",
+            "applied/2.5.3-2ubuntu1.5": "no_vul"
+        }
+    },
+    "CVE-2023-39976": {
+        "ubuntu@@+source@@libqb": {
+            "applied/2.0.8-2": "patch",
+            "applied/2.0.8-1ubuntu2": "patch",
+            "applied/2.0.4-1ubuntu0.2": "patch",
+            "applied/1.0.5-1": "unpatch",
+            "applied/1.0.1-1ubuntu1": "unpatch",
+            "applied/0.17.2.real-6ubuntu1": "unpatch",
+            "applied/0.16.0.real-1ubuntu5": "unpatch"
+        }
+    },
+    "CVE-2022-4399": {
+        "ubuntu@@+source@@nodau": {
+            "applied/0.3.14-1build2": "patch",
+            "applied/0.3.8-4build1": "unpatch",
+            "applied/0.3.8-3": "unpatch",
+            "applied/0.3.8-1build1": "unpatch",
+            "applied/0.3.7-1build1": "unpatch",
+            "applied/0.3.7-1": "unpatch"
+        }
+    },
+    "CVE-2023-43641": {
+        "ubuntu@@+source@@libcue": {
+            "applied/2.2.1-4.1build1": "patch",
+            "applied/2.2.1-3ubuntu0.1": "patch",
+            "applied/2.2.1-2ubuntu0.1": "patch",
+            "applied/1.4.0-1": "no_vul"
+        }
+    },
+    "CVE-2022-25309": {
+        "ubuntu@@+source@@fribidi": {
+            "applied/1.0.15-1": "patch",
+            "applied/1.0.13-3build1": "patch",
+            "applied/1.0.8-2ubuntu3.1": "patch",
+            "applied/1.0.8-2ubuntu0.1": "patch",
+            "applied/0.19.7-2ubuntu0.1": "patch",
+            "applied/0.19.7-1": "unpatch",
+            "applied/0.19.6-1": "unpatch"
+        }
+    },
+    "CVE-2023-1672": {
+        "ubuntu@@+source@@tang": {
+            "applied/15-2ubuntu1": "patch",
+            "applied/14-2ubuntu1": "patch",
+            "applied/11-1ubuntu0.1": "patch",
+            "applied/7-1ubuntu0.2": "no_vul",
+            "applied/6-1": "no_vul"
+        }
+    },
+    "CVE-2023-28753": {
+        "ubuntu@@+source@@netconsd": {
+            "applied/0.4.1-1": "patch"
+        }
+    },
+    "CVE-2023-46228": {
+        "ubuntu@@+source@@zchunk": {
+            "applied/1.5.1+ds1-1": "patch",
+            "applied/1.3.2+ds1-1build2": "patch",
+            "applied/1.1.16+ds1-1": "unpatch"
+        }
+    },
+    "CVE-2023-50246": {
+        "ubuntu@@+source@@jq": {
+            "applied/1.7.1-3build1": "patch",
+            "applied/1.6-2.1ubuntu3": "no_vul",
+            "applied/1.6-1ubuntu0.20.04.1": "no_vul",
+            "applied/1.5+dfsg-2": "no_vul",
+            "applied/1.5+dfsg-1ubuntu0.1": "no_vul"
+        }
+    },
+    "CVE-2022-27650": {
+        "ubuntu@@+source@@crun": {
+            "applied/1.16.1-1": "patch",
+            "applied/1.14.1-1": "patch",
+            "applied/0.17+dfsg-1.1ubuntu0.1": "unpatch",
+            "applied/0.12.1+dfsg-1": "unpatch"
+        }
+    },
+    "CVE-2022-32278": {
+        "ubuntu@@+source@@exo": {
+            "applied/4.19.0-1": "patch",
+            "applied/4.18.0-1build4": "patch",
+            "applied/4.16.3-1": "unpatch",
+            "applied/0.12.11-1ubuntu1.20.04.1": "unpatch",
+            "applied/0.12.2-0ubuntu0.18.04.1": "unpatch",
+            "applied/0.10.7-1": "unpatch",
+            "applied/0.10.2-3ubuntu1.14.04.2": "unpatch"
+        }
+    },
+    "CVE-2023-25076": {
+        "ubuntu@@+source@@sniproxy": {
+            "applied/0.6.1+git20240321-0.1": "patch",
+            "applied/0.6.0-2.1build2": "patch",
+            "applied/0.6.0-2ubuntu0.22.04.1": "patch",
+            "applied/0.6.0-1ubuntu0.1": "patch",
+            "applied/0.5.0-2": "unpatch"
+        }
+    },
+    "CVE-2023-24805": {
+        "ubuntu@@+source@@cups-filters": {
+            "applied/2.0.1-0ubuntu1": "patch",
+            "applied/2.0.0-0ubuntu4": "patch",
+            "applied/1.28.15-0ubuntu1.4": "patch",
+            "applied/1.27.4-1ubuntu0.4": "patch",
+            "applied/1.20.2-0ubuntu3.3": "patch",
+            "applied/1.8.3-2ubuntu3.5": "unpatch",
+            "applied/1.0.52-0ubuntu1.8": "no_vul"
+        }
+    },
+    "CVE-2022-21711": {
+        "ubuntu@@+source@@lprint": {
+            "applied/1.3.1-1": "no_vul",
+            "applied/1.1.0-3build2": "no_vul",
+            "applied/1.0-3": "no_vul",
+            "applied/1.0-1": "no_vul"
+        }
+    }
+}
