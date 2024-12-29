@@ -44,6 +44,8 @@ This repository contains data and visualizations related to vulnerability detect
    - **Visualization**:
      ![Patch Verification Results by Year](./patch_verification_results_by_year.png)
 
+---
+
 ### Fuzzle Experimental Evaluation
 
 This section evaluates the fuzzing performance of APTShield in comparison to AFLGo and AFL++ using the [Fuzzle dataset](https://github.com/SoftSec-KAIST/Fuzzle).&#x20;
